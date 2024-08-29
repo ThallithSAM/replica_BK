@@ -1,0 +1,58 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Flame-Bold', 'Flame-Regular', 'FlameSans-Regular' 
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.carousel1-indicators button {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50%;
+  border: 1px solid #fff !important;
+  margin: 0 5px !important; 
+}
+
+.carousel1-indicators button.active{
+  background-color: #f78b32 !important;
+}
+
+.carousel2-indicators button {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50%;
+  border: 1px solid #fff !important;
+  margin: 0 5px !important; 
+}
+
+.carousel2-indicators button.active{
+  background-color: #502314 !important;
+}
+
+
+@font-face {
+  font-family: 'Flame-Bold';
+  src: url('../src/assets/fonts/Flame-Bold.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Flame-Regular';
+src: url('../src/assets/fonts/Flame-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'FlameSans-Regular';
+  src: url('../src/assets/fonts/FlameSans-Regular.woff') format('woff');
+}
+
+
+

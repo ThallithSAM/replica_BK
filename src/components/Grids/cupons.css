@@ -1,0 +1,31 @@
+h1, h6, h4 {
+    font-family: "Flame-Regular";
+}
+
+
+h4 {
+    color: red;
+    margin-left: 250px;
+    margin-top: -30px;
+    }
+
+h4 sub {
+font-size: 15px;
+}
+
+h4 span {
+    font-size: 30px;
+}
+
+h4 sup {
+    font-size: 15px;
+}
+
+h6{
+    font-size: 20px;
+    padding-right: 50px;
+}
+
+.cupons .container-fluid {
+    padding-left: 50px;
+}

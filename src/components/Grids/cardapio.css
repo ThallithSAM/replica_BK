@@ -1,0 +1,38 @@
+
+body {
+    color: #663b03;
+    font-family: 'Flame-Regular';
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: -200px;
+}
+
+.titleB {
+    font-size: 35px;
+    padding-bottom: 25px;
+    padding-top: 30px;
+    padding-right: 70%;
+
+}
+
+
+
+h6 {
+    font-size: 25px;
+    padding-left: 20px;
+}
+
+.carouselC-indicators button {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 50%;
+    border: 1px solid #fff !important;
+    margin: 0 5px !important; 
+  }
+  
+  .carouselC-indicators button.active{
+    background-color: #f78b32 !important;
+  }
+  
